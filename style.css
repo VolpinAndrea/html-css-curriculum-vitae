@@ -1,6 +1,10 @@
 html{
     font-family:'Times New Roman', Times, serif
 }
+body{
+margin-left: 25%;
+margin-right: 25%;
+}
 
 header{
     background-color: hwb(0 50% 50% / 0.125);
@@ -10,13 +14,25 @@ img{
     width: 200px;
     height: 200px;
 }
+
 hr{
     border-color: rgb(255, 163, 0);
 }
 div h1{
     color: rgb(255, 145, 0);
 }
+div h1:hover{
+    color: green;
+}
+div h2:hover{
+    font-family:Arial, Helvetica, sans-serif
+}
+div p:hover{
+    text-transform: capitalize;
+    text-align: center;
+}
 footer{
     text-align: center;
 
 }
+
