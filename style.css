@@ -1,3 +1,7 @@
+html{
+    font-family:'Times New Roman', Times, serif
+}
+
 header{
     background-color: hwb(0 50% 50% / 0.125);
     text-align: center;
@@ -5,4 +9,14 @@ header{
 img{
     width: 200px;
     height: 200px;
+}
+hr{
+    border-color: rgb(255, 163, 0);
+}
+div h1{
+    color: rgb(255, 145, 0);
+}
+footer{
+    text-align: center;
+
 }
