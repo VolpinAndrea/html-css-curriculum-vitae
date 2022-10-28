@@ -1,0 +1,8 @@
+header{
+    background-color: hwb(0 50% 50% / 0.125);
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
